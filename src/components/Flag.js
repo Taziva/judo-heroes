@@ -32,6 +32,6 @@ export default class Flag extends React.Component {
         <img className="icon" title={name} src={`/img/${icon}`}/>
         {this.props.showName && <span className="name">{name}</span>}
       </span>
-    )
+    );
   }
 }
