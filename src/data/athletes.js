@@ -131,4 +131,4 @@ const athletes = [
   }
 ];
 
-exports default athletes;
+export default athletes;
